@@ -7,7 +7,7 @@
 # server "example.com", user: "deploy", roles: %w{app web}, other_property: :other_value
 # server "db.example.com", user: "deploy", roles: %w{db}
 
-server "134.209.76.81", user: "deploy", roles: %w{app db webbundle  exec rails secret}
+server "rubyroberto141189.ddns.net", user: "deploy", roles: %w{app db webbundle  exec rails secret}
 
 
 
